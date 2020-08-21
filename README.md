@@ -9,7 +9,7 @@ There are a bunch of really cool Raspberry Pi based clusters out there such as:
 
 ## Hardware
 
-This is mine.  As a few people have asked about it, here is a component list:
+[This is mine](https://twitter.com/martinwoodward/status/1296532700149489664).  As a few people have asked about it, here is a component list:
 
  - 7 x Raspberry Pi 4 B (4GB) [:uk:](https://amzn.to/2FACjwD) [:us:](https://amzn.to/34mCtlS)
  - 7 x GeeekPi Raspberry Pi 4 PoE HAT [:uk:](https://amzn.to/31ezTMy) [:us:](https://amzn.to/3l5r0wG) 
